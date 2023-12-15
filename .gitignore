@@ -162,3 +162,8 @@ cython_debug/
 data/PlantVillage
 data/*.zip
 .gitignore
+.keras
+models/Cherry.keras
+models/Corn.keras
+models/Peach.keras
+models/Strawberry.keras
