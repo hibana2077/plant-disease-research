@@ -167,3 +167,4 @@ models/Cherry.keras
 models/Corn.keras
 models/Peach.keras
 models/Strawberry.keras
+data/
