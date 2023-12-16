@@ -168,3 +168,6 @@ models/Corn.keras
 models/Peach.keras
 models/Strawberry.keras
 data/
+models/lettuce_npk_encoder.pickle
+models/lettuce_npk_model.keras
+main/model.keras
